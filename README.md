@@ -8,8 +8,6 @@
 
 
 
-<br>
-
 <p align="center">
   <img alt="DesignCode" src="./.github/dogage.png" width="100%">
 </p>
@@ -19,8 +17,6 @@
 
 O DogAge App é um projeto criado exclusivamente para fins acadêmicos a fim de se aplicar conteitos báscios de Swift
 
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## :memo: Licença
 
