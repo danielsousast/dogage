@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="DesignCode" src="./.github/dogage.png" width="100%">
+  <img alt="DesignCode" src="./.github/dogage.png" width="100%" style={{height:200px}}>
 </p>
 
 ## 💻 Projeto
